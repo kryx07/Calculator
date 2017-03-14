@@ -15,7 +15,7 @@ public class Calculator {
 	@Override
 	public int multiply(int a, int b) {
 		// TODO Auto-generated method stub
-		return a*b;
+		return a*b; 
 	}
 
 	@Override
