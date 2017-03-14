@@ -6,10 +6,11 @@ public class CalculatorTest {
 
 	
 	@Test
-	public void testCalculate() {
-		assertEquals(0, new Calculator().calculate("1+1"));
+	public void testCalc() {
 		//ljhkhkh
 		// sddsfafd
 	}
+	
+	
 
 }
