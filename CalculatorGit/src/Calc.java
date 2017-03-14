@@ -6,9 +6,9 @@ String fnum = null;
 String lnum = null;
 String total = null;
 
-public String Matheq(String mathoperation) {
+public String calculateIntFromString(String mathoperation) {
 
-    mathoperation= "6 * 3 - 4 * 2";
+    //mathoperation= "6 * 3 - 4 * 2";
 
     mathoperation = mathoperation.replaceAll(",", "");
     mathoperation = mathoperation.replaceAll("plus", "+");
