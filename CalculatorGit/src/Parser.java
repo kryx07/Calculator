@@ -2,7 +2,7 @@
 public class Parser {
 
 	
-	public int calculateIntFrom(){
+	public int calculateIntFrom(String input){
 		int total=0;
 		return total;
 	}
