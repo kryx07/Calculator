@@ -6,9 +6,21 @@ public class CalculatorTest {
 
 	
 	@Test
+<<<<<<< HEAD
 	public void testCalculate() {
 		assertEquals(0, new Calculator().calculate("1+1"));
+<<<<<<< HEAD
 
+=======
+		
+=======
+	public void testCalc() {
+		//ljhkhkh
+		// sddsfafd
+>>>>>>> branch 'master' of https://github.com/kryx07/Calculator.git
+>>>>>>> branch 'master' of https://github.com/kryx07/Calculator.git
 	}
+	
+	
 
 }

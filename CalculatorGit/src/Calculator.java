@@ -1,9 +1,15 @@
 
 public class Calculator {
+<<<<<<< HEAD
 	@Override
 	public int add(int a, int b) {
 		// TODO Auto-generated method stub
 		return a+b;
+=======
+	public int Matheq(String operation){
+		return 0; 
+		// Test
+>>>>>>> branch 'master' of https://github.com/kryx07/Calculator.git
 	}
 
 	@Override
